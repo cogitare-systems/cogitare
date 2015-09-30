@@ -8,7 +8,7 @@ from PyQt5 import QtGui
 from PyQt5.QtWidgets import QApplication, QMainWindow
 from ui.loginUI import Ui_MainWindow
 
-TRYS = 1
+TRYS = 2
 
 def autenticar():
     global TRYS
